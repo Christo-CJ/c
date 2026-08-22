@@ -6,5 +6,6 @@ int main()
 int * const p;
 p=&j;
 *p=90;
+printf("hello world");
 
 }
